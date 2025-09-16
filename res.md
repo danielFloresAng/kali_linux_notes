@@ -1,9 +1,9 @@
-* Terminal shor-cuts
+<!-- Terminal shor-cuts -->
   - New tab -> shift + control + T
   - Rename tab -> alt + shift + S
   - Move tab -> shift + alt + < / >
 
-* Commands
+<!-- Commands -->
   - ls -l -> File details
   - ls -la -> File details and hiden objects
   - whoami -> Shows user
@@ -17,7 +17,14 @@
   - grep -> Filter the files that we need while give it a keyword to find it. Is's case sensitive. We can use grep command to find keywords in a string, text, script, etc.
       <Ej.: ls -la | grep file-name>
       <Ej.:  cat file.txt | grep -n keyword_to_find>
+  - ifconfig -> Shows the network info of our machine
+  - bing -> Shows de data that we receive and send from the ip that we did type.
+      <Ej.: bing google.com>
+      <Ej.: bing 127.00.29.38>
+  - netstat -> It shows the nets status
+  - nslookup -> Tell us the ip of a web addres or viceversa
+      <Ej.: nslookup google.com>
 
-* Terminal atributes: 
+<!-- Terminal atributes:  -->
   - -i -> Ignores the case sensitive
   - -n -> It refers a name
