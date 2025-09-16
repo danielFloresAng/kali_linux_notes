@@ -18,12 +18,15 @@
       <Ej.: ls -la | grep file-name>
       <Ej.:  cat file.txt | grep -n keyword_to_find>
   - ifconfig -> Shows the network info of our machine
-  - bing -> Shows de data that we receive and send from the ip that we did type.
-      <Ej.: bing google.com>
-      <Ej.: bing 127.00.29.38>
+  - ping -> Shows de data that we receive and send from the ip that we did type.
+      <Ej.: ping google.com>
+      <Ej.: ping 127.00.29.38>
   - netstat -> It shows the nets status
   - nslookup -> Tell us the ip of a web addres or viceversa
       <Ej.: nslookup google.com>
+  - sudo adduser 'new-user' -> Creates a new user from the terminal, we can give it privileges
+  - id -> Shows the identifiers and groups that our user belongs to
+  - w -> Tell us who is connected to our machine and the actions of those that are conected
 
 <!-- Terminal atributes:  -->
   - -i -> Ignores the case sensitive
