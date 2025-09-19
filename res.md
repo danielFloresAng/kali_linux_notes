@@ -33,6 +33,10 @@
   - kill PID -> Quit the task correspondent to the PID 
   - kill -9 PID -> Force quit the task correspondent to the PID 
   - pkill TASK_TO_QUIT -> Quit the task by the name of the proces, not the PID
+  - chmod -> edit the levels of acces to a binary or directory. It could be with 3 digits after the commands that indicates the level of acces of the user, the groups and others. 
+    <Ej.: chmod 764>
+  - chown -> change the user or group of a binary or directory
+  
 
 <!-- Terminal commands actions -->
   - ctrl + c -> Ends the actual tastk
