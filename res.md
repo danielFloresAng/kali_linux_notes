@@ -27,6 +27,16 @@
   - sudo adduser 'new-user' -> Creates a new user from the terminal, we can give it privileges
   - id -> Shows the identifiers and groups that our user belongs to
   - w -> Tell us who is connected to our machine and the actions of those that are conected
+  - ps -> Show the procces and actions that our system executes 
+  - jobs -> Shows the tasks that are paused on the actual user
+  - fg -> Start the task selected
+  - kill PID -> Quit the task correspondent to the PID 
+  - kill -9 PID -> Force quit the task correspondent to the PID 
+  - pkill TASK_TO_QUIT -> Quit the task by the name of the proces, not the PID
+
+<!-- Terminal commands actions -->
+  - ctrl + c -> Ends the actual tastk
+  - ctrl + z -> Pause the actual task
 
 <!-- Terminal atributes:  -->
   - -i -> Ignores the case sensitive
