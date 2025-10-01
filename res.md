@@ -37,6 +37,15 @@
     <Ej.: chmod 764>
   - chown -> change the user or group of a binary or directory
   
+  <!-- Exploit commands -->
+  > Terminal commands:
+    * msfconsole -> Init metasploit
+  
+  > Exploit commands: 
+    * info -> Shows metasploit info
+    * set -> Set the desire configuration
+    * use -> Set de metasploit version. Ej.: set exploit/ftp/unix/vsftp_2342
+  
 
 <!-- Terminal commands actions -->
   - ctrl + c -> Ends the actual tastk
@@ -45,3 +54,6 @@
 <!-- Terminal atributes:  -->
   - -i -> Ignores the case sensitive
   - -n -> It refers a name
+
+  coordinacionmix/Downloads/Metasploitable2-Linux/
+  
